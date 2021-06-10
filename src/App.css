@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+/* .card,.text-center{
+  margin:auto
+} */
+
+/* .border-teal{
+  color: #009688;
+  border-bottom: solid;
+  width: 9%;
+} */
+
+/* .text{
+  margin-left: 300px;
+text-align: justify;
+} */
+
+.container-fluid,
+.bg-white,
+.pd-3{
+ box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.icon-btn{
+  cursor: pointer;
+}
+.icon-btn:hover{
+  color: #61dafb;
+}
+
